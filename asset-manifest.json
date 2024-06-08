@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffcb045a.css",
+    "main.js": "/static/js/main.076f4445.js",
+    "static/js/787.e6bd161e.chunk.js": "/static/js/787.e6bd161e.chunk.js",
+    "static/media/market2.jpg": "/static/media/market2.2f6a637d34445b82b8ea.jpg",
+    "static/media/cubiio.jpg": "/static/media/cubiio.4f1401bad9aaaa526971.jpg",
+    "static/media/NKUST.png": "/static/media/NKUST.466eae327a0388ecccad.png",
+    "static/media/scieduLOGO2.jpg": "/static/media/scieduLOGO2.db4ecc2c4a76d10584e9.jpg",
+    "static/media/NSTC.png": "/static/media/NSTC.e8deffb03048c31d06ed.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.ffcb045a.css.map": "/static/css/main.ffcb045a.css.map",
+    "main.076f4445.js.map": "/static/js/main.076f4445.js.map",
+    "787.e6bd161e.chunk.js.map": "/static/js/787.e6bd161e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffcb045a.css",
+    "static/js/main.076f4445.js"
+  ]
+}
